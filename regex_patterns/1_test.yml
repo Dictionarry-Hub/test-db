@@ -1,9 +1,9 @@
-id: 2
-name: TEST
+id: 1
+name: 'TEST'
 description: 'TEST'
 tags:
-- TEST
-pattern: (?<=^|[\s.-])TEST\b
-regex101Link: 
+  - TEST
+pattern: '(?<=^|[\s.-])TEST\b'
+regex101Link: ''
 date_created: '2024-08-15T10:46:19.929335'
-date_modified: '2024-08-15T15:43:51.614741'
+date_modified: '2024-08-17T10:18:01.649067'
