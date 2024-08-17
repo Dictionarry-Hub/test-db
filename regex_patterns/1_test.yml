@@ -1,9 +1,9 @@
 id: 1
-name: 'update2'
+name: 'update3'
 description: 'update2'
 tags:
   - TEST
-pattern: '(?<=^|[\s.-])update2\b'
+pattern: '(?<=^|[\s.-])update3\b'
 regex101Link: ''
 date_created: '2024-08-15T10:46:19.929335'
-date_modified: '2024-08-17T10:38:54.158895'
+date_modified: '2024-08-17T10:41:49.370023'
