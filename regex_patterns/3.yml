@@ -1,0 +1,12 @@
+id: 3
+name: 'D-Z0N3'
+description: 'AHD Internal encode release group with highest 1080p GPPi'
+tags:
+  - AHD Internal
+  - Release Group
+  - Tier 1 1080p GPPi
+  - x264 Focused
+pattern: '(?<=^|[\s.-])D-Z0N3\b'
+regex101Link: ''
+date_created: '2024-08-18T16:44:45.403190'
+date_modified: '2024-08-18T16:52:49.100628'
