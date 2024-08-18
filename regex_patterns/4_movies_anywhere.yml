@@ -1,9 +1,0 @@
-id: 4
-name: 'Movies Anywhere'
-description: 'Matches all WEB-DLs from Movies Anywhere'
-tags:
-  - Streaming Service
-pattern: '(?<!dts[ .-]?hd[ .-]?)ma\b(?=.*\bweb[ ._-]?(dl|rip)\b)'
-regex101Link: ''
-date_created: '2024-08-18T11:50:37.286250'
-date_modified: '2024-08-18T11:50:46.299166'
