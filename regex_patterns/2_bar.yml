@@ -1,0 +1,9 @@
+id: 2
+name: 'bar'
+description: 'bar'
+tags:
+  - bar
+pattern: 'bar'
+regex101Link: 'https\://regex101.com/r/z3wLh4'
+date_created: '2024-08-18T06:01:42.176860'
+date_modified: '2024-08-18T06:01:46.385163'

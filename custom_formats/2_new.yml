@@ -1,0 +1,13 @@
+id: 2
+name: new
+description: new
+date_created: '2024-08-18T06:54:25.203475'
+date_modified: '2024-08-18T06:54:25.203493'
+conditions:
+- type: flag
+  name: Golden Popcoirn
+  negate: true
+  required: true
+  flag: golden-popcorn
+tags:
+- new
