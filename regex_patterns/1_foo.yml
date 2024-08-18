@@ -1,9 +1,0 @@
-id: 1
-name: 'foo'
-description: 'foo'
-tags:
-  - foo
-pattern: 'foo'
-regex101Link: 'https\://regex101.com/r/VhYeq5'
-date_created: '2024-08-18T06:01:28.368678'
-date_modified: '2024-08-18T06:01:32.164135'
