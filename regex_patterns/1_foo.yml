@@ -1,9 +1,0 @@
-id: 1
-name: 'foo'
-description: 'foo'
-tags:
-  - foo
-pattern: 'foo'
-regex101Link: ''
-date_created: '2024-08-18T04:33:34.597953'
-date_modified: '2024-08-18T04:33:34.598459'

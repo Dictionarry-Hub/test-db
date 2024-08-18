@@ -1,9 +1,0 @@
-id: 2
-name: 'bar'
-description: 'bar'
-tags:
-  - bar
-pattern: 'bar'
-regex101Link: ''
-date_created: '2024-08-18T04:33:51.351881'
-date_modified: '2024-08-18T04:33:51.352076'
