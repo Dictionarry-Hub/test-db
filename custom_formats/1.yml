@@ -1,0 +1,24 @@
+id: 1
+name: custom format
+description: custom format
+date_created: '2024-08-18T14:30:12.585334'
+date_modified: '2024-08-18T14:30:12.585346'
+conditions:
+- type: regex
+  name: regex condition
+  negate: false
+  required: true
+  regex_id: 1
+- type: size
+  name: Size Condition
+  negate: false
+  required: true
+  min: 0
+  max: 10
+- type: flag
+  name: flag condition
+  negate: true
+  required: false
+  flag: golden-popcorn
+tags:
+- custom format

@@ -1,0 +1,9 @@
+id: 1
+name: 'regex pattern'
+description: 'regex pattern'
+tags:
+  - regex pattern
+pattern: 'regex pattern'
+regex101Link: ''
+date_created: '2024-08-18T14:29:23.432899'
+date_modified: '2024-08-18T14:29:23.433390'
