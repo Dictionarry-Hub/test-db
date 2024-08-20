@@ -1,5 +1,5 @@
 id: 1
-name: 'x265'
+name: 'x265 [Changed From GitHub]'
 description: 'Matches x265 encodes. Does not match h265 (webs and remuxes)'
 tags:
   - codec
