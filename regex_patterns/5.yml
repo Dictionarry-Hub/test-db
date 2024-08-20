@@ -1,5 +1,5 @@
 id: 5
-name: 'QxR [Changed From GitHub]'
+name: 'QxR'
 description: 'Efficiency focused x265 encode release group. Internal to HUNO and 1337x'
 tags:
   - HUNO Internal
@@ -9,4 +9,4 @@ tags:
 pattern: '(?<=^|[\s.-])(Tigole|FreetheFish|SAMPA|afm72|Silence|r00t|YOGI|MONOLITH|Panda|Kappa|t3nzin|RCVR|ImE|RZero|Garshasp|Ghost|Bandi|QxR)(?![.\d])'
 regex101Link: ''
 date_created: '2024-08-18T16:49:33.449701'
-date_modified: '2024-08-18T16:49:33.449930'
+date_modified: '2024-08-20T05:13:29.245209'
