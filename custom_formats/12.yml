@@ -1,0 +1,13 @@
+id: 12
+name: FoRM
+description: FoRM
+date_created: '2024-08-23T18:12:11.017424'
+date_modified: '2024-08-23T18:12:11.017443'
+conditions:
+- type: regex
+  name: FoRM
+  negate: false
+  required: true
+  regex_id: 13
+tags:
+- 1080p T3

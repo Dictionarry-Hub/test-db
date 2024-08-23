@@ -1,0 +1,13 @@
+id: 14
+name: SA89
+description: SA89
+date_created: '2024-08-23T18:12:35.488207'
+date_modified: '2024-08-23T18:12:35.488218'
+conditions:
+- type: regex
+  name: SA89
+  negate: false
+  required: true
+  regex_id: 15
+tags:
+- 1080p T3

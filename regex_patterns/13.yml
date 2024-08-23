@@ -1,0 +1,8 @@
+id: 13
+name: 'FoRM'
+description: ''
+tags:
+pattern: '(?<=^|[\s.-])FoRM\b'
+regex101Link: ''
+date_created: '2024-08-23T18:06:59.702643'
+date_modified: '2024-08-23T18:06:59.702709'

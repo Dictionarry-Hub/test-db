@@ -1,0 +1,13 @@
+id: 15
+name: NCmt
+description: NCmt
+date_created: '2024-08-23T18:12:45.912858'
+date_modified: '2024-08-23T18:12:45.912869'
+conditions:
+- type: regex
+  name: NCmt
+  negate: false
+  required: true
+  regex_id: 16
+tags:
+- 1080p T3

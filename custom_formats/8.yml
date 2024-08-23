@@ -1,0 +1,13 @@
+id: 8
+name: ZQ
+description: ZQ
+date_created: '2024-08-23T18:09:50.328663'
+date_modified: '2024-08-23T18:09:50.328676'
+conditions:
+- type: regex
+  name: ZQ
+  negate: false
+  required: true
+  regex_id: 10
+tags:
+- 1080p T2

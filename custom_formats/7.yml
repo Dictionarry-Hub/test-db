@@ -1,0 +1,13 @@
+id: 7
+name: TayTo
+description: TayTo
+date_created: '2024-08-23T18:09:39.307917'
+date_modified: '2024-08-23T18:09:39.307936'
+conditions:
+- type: regex
+  name: TayTo
+  negate: false
+  required: true
+  regex_id: 9
+tags:
+- 1080p T2

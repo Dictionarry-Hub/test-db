@@ -1,0 +1,13 @@
+id: 6
+name: Geek
+description: Geek
+date_created: '2024-08-23T18:09:22.781393'
+date_modified: '2024-08-23T18:09:22.781407'
+conditions:
+- type: regex
+  name: Geek
+  negate: false
+  required: true
+  regex_id: 8
+tags:
+- 1080p T2

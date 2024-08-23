@@ -1,0 +1,13 @@
+id: 11
+name: HiFi
+description: HiFi
+date_created: '2024-08-23T18:11:59.187166'
+date_modified: '2024-08-23T18:11:59.187204'
+conditions:
+- type: regex
+  name: HiFi
+  negate: false
+  required: true
+  regex_id: 12
+tags:
+- 1080p T3

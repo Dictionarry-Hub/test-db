@@ -1,0 +1,13 @@
+id: 5
+name: EbP
+description: EbP
+date_created: '2024-08-23T17:45:47.011586'
+date_modified: '2024-08-23T17:45:47.011598'
+conditions:
+- type: regex
+  name: EbP
+  negate: false
+  required: true
+  regex_id: 4
+tags:
+- 1080p T1

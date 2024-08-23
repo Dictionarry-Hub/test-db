@@ -1,0 +1,12 @@
+id: 7
+name: 'DON'
+description: 'HDB Internal encode release group with high 1080p GPPi'
+tags:
+  - AHD Internal
+  - Release Group
+  - Tier 1 1080p GPPi
+  - x264 Focused
+pattern: '(?<=^|[\s.-])DONb'
+regex101Link: ''
+date_created: '2024-08-23T17:45:14.721549'
+date_modified: '2024-08-23T17:45:23.028366'

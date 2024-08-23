@@ -1,0 +1,8 @@
+id: 10
+name: 'ZQ'
+description: ''
+tags:
+pattern: '(?<=^|[\s.-])ZQ\b'
+regex101Link: ''
+date_created: '2024-08-23T18:06:31.735447'
+date_modified: '2024-08-23T18:06:31.735491'

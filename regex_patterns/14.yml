@@ -1,0 +1,8 @@
+id: 14
+name: 'HiDt'
+description: ''
+tags:
+pattern: '(?<=^|[\s.-])HiDt\b'
+regex101Link: ''
+date_created: '2024-08-23T18:07:05.737711'
+date_modified: '2024-08-23T18:07:05.737768'

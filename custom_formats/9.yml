@@ -1,0 +1,13 @@
+id: 9
+name: VietHD
+description: VietHD
+date_created: '2024-08-23T18:10:34.119095'
+date_modified: '2024-08-23T18:10:34.119107'
+conditions:
+- type: regex
+  name: VietHD
+  negate: false
+  required: true
+  regex_id: 11
+tags:
+- 1080p T2

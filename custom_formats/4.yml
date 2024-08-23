@@ -1,0 +1,13 @@
+id: 4
+name: DON
+description: DON
+date_created: '2024-08-23T17:44:58.396212'
+date_modified: '2024-08-23T17:45:35.287695'
+conditions:
+- type: regex
+  name: DON
+  negate: false
+  required: true
+  regex_id: 7
+tags:
+- 1080p T1

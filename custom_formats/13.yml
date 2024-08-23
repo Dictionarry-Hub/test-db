@@ -1,0 +1,13 @@
+id: 13
+name: HiDt
+description: HiDt
+date_created: '2024-08-23T18:12:23.190321'
+date_modified: '2024-08-23T18:12:23.190333'
+conditions:
+- type: regex
+  name: HiDt
+  negate: false
+  required: true
+  regex_id: 14
+tags:
+- 1080p T3

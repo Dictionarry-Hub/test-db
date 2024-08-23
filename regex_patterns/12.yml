@@ -1,0 +1,8 @@
+id: 12
+name: 'HiFi'
+description: ''
+tags:
+pattern: '(?<=^|[\s.-])HiFi\b'
+regex101Link: ''
+date_created: '2024-08-23T18:06:46.788518'
+date_modified: '2024-08-23T18:06:52.169712'
