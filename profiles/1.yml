@@ -1,8 +1,8 @@
 id: 1
-name: 1080p Transparent [CHANGED]
+name: 1080p Transparent
 description: foo bar
 date_created: '2024-08-23T17:40:08.422625'
-date_modified: '2024-08-23T19:35:00.660052'
+date_modified: '2024-08-24T09:29:24.987154'
 tags:
 - Quality Profile
 custom_formats:
@@ -22,8 +22,6 @@ custom_formats:
   score: 110
 - id: 8
   score: 110
-- id: 2
-  score: 0
 - id: 3
   score: 120
 - id: 10
