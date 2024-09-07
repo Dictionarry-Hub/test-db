@@ -1,8 +1,8 @@
 id: 10
-name: CtrlHD [ Changed ]
+name: CtrlHD [ Changed ]AAAA
 description: CtrlHD
 date_created: '2024-08-23T18:10:54.125250'
-date_modified: '2024-08-23T18:11:49.857275'
+date_modified: '2024-09-07T17:06:14.218636'
 conditions:
 - type: regex
   name: CtrlHD
