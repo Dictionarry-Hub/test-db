@@ -1,5 +1,5 @@
 id: 11
-name: 'VietHD'
+name: 'VietHD github'
 description: ''
 tags:
 pattern: '(?<=^|[\s.-])VietHD\b'
