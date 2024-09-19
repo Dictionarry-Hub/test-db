@@ -1,34 +1,35 @@
 id: 1
-name: 1080p Transparent
-description: The 1080p Transparent profile aims to provide a balance between quality, size and compatibility
+name: 1080p High Quality
+description: The 1080p High Quality profile focuses on delivering the best possible video quality, regardless of file size
 date_created: '2024-08-23T17:40:08.422625'
-date_modified: '2024-09-15T17:21:16.306758'
+date_modified: '2024-09-20T12:00:00.000000'
 tags:
-- Quality Profile
+  - High Definition
 custom_formats:
-- id: 15
-  score: 100
-- id: 5
-  score: 120
-- id: 9
-  score: 110
-- id: 6
-  score: 110
-- id: 12
-  score: 100
-- id: 14
-  score: 100
-- id: 7
-  score: 110
-- id: 8
-  score: 110
-- id: 3
-  score: 120
-- id: 10
-  score: 100
-- id: 11
-  score: 100
-- id: 13
-  score: 100
-- id: 4
-  score: 120
+  # Score changes
+  - id: 15
+    score: 105
+  - id: 5
+    score: 115
+  - id: 9
+    score: 115
+  - id: 6
+    score: 110
+  - id: 14
+    score: 100
+  - id: 8
+    score: 110
+  - id: 3
+    score: 120
+  - id: 10
+    score: 100
+  - id: 11
+    score: 100
+  - id: 13
+    score: 100
+  - id: 4
+    score: 125
+  - id: 16
+    score: 90
+  - id: 17
+    score: 95
