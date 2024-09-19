@@ -6,7 +6,6 @@ date_modified: '2024-09-20T12:00:00.000000'
 tags:
   - High Definition
 custom_formats:
-  # Score changes
   - id: 15
     score: 105
   - id: 5
