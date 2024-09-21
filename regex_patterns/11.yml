@@ -1,8 +1,8 @@
 id: 11
-name: 'VietHD github'
+name: 'VietHD'
 description: ''
 tags:
 pattern: '(?<=^|[\s.-])VietHD\b'
 regex101Link: ''
 date_created: '2024-08-23T18:06:39.422358'
-date_modified: '2024-08-23T18:06:39.422400'
+date_modified: '2024-09-21T12:43:06.031790'
