@@ -1,5 +1,5 @@
 id: 10
-name: CtrlHD BB
+name: CtrlHD
 description: Tier 2 x264 release group. barfoo
 date_created: '2024-08-23T18:10:54.125250'
 date_modified: '2024-09-18T03:57:27.467801'
@@ -12,4 +12,3 @@ conditions:
 tags:
 - 1080p T3
 - HDB Internal
-- foobar
