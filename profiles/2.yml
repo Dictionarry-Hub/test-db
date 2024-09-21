@@ -10,8 +10,6 @@ tags:
 - 1080p
 - x264
 - Some Remote Tag
-- Sync to Radarr 1080p
-- 
 custom_formats:
 - id: 12
   score: 200
