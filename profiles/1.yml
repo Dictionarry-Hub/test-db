@@ -11,7 +11,7 @@ tags:
 - 5-10gb
 custom_formats:
 - id: 12
-  score: 100
+  score: 111
 - id: 15
   score: 80
 - id: 6
@@ -35,4 +35,4 @@ custom_formats:
 - id: 7
   score: 80
 - id: 9
-  score: 80
+  score: 0
