@@ -1,8 +1,11 @@
 id: 1
-name: 1080p Balanced REMOTE
-description: The 1080p Balanced profile provides an emphasis on space efficiency and streaming optimisation, while still retaining some audio and visual fidelity. It is available in 2 formats - Full and Single Grab. These formats affect only the immutability of the profile.
+name: 1080p Balanced
+description: The 1080p Balanced profile provides an emphasis on space efficiency and
+  streaming optimisation, while still retaining some audio and visual fidelity. It
+  is available in 2 formats - Full and Single Grab. These formats affect only the
+  immutability of the profile.
 date_created: '2024-09-19T23:52:33.942126'
-date_modified: '2024-09-21T04:36:46.227434'
+date_modified: '2024-09-21T12:41:14.499873'
 tags:
 - 1080p
 - x264
@@ -11,7 +14,7 @@ tags:
 - 5-10gb
 custom_formats:
 - id: 12
-  score: 111
+  score: 120
 - id: 15
   score: 80
 - id: 6
