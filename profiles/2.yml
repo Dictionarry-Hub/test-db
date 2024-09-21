@@ -5,16 +5,17 @@ description: The 1080p Transparent profile provides an emphasis on space efficie
   It is available in 2 formats - Full and Single Grab. These formats affect only the
   immutability of the profile. These are remote changes!
 date_created: '2024-09-19T23:52:33.942126'
-date_modified: '2024-09-21T12:41:17.435893'
+date_modified: '2024-09-21T12:44:34.109934'
 tags:
 - 1080p
 - x264
 - Some Remote Tag
+- Sync to Radarr 1080p
 custom_formats:
 - id: 12
-  score: 990
+  score: 1000
 - id: 15
-  score: 123
+  score: 150
 - id: 6
   score: 100
 - id: 14

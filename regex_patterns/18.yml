@@ -1,0 +1,12 @@
+id: 18
+name: 'c0ke'
+description: 'HDB Internal encode release group with very high 1080p GPPi'
+tags:
+  - Release Group
+  - Tier 1 1080p GPPi
+  - x264 Focused
+  - HDB Internal
+pattern: '(?<=^|[\s.-])c0ke\b'
+regex101Link: ''
+date_created: '2024-09-21T12:44:09.272057'
+date_modified: '2024-09-21T12:44:09.272134'
