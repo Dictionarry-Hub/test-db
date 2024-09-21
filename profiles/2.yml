@@ -3,7 +3,7 @@ name: 1080p Transparent
 description: The 1080p Transparent profile provides an emphasis on space efficiency
   and streaming optimisation, while still retaining some audio and visual fidelity.
   It is available in 2 formats - Full and Single Grab. These formats affect only the
-  immutability of the profile. These are remote changes!
+  immutability of the profile. 1080p Transparent relies on the GPPi algorithm to rank releases based on the encoding group
 date_created: '2024-09-19T23:52:33.942126'
 date_modified: '2024-09-21T12:44:34.109934'
 tags:
@@ -11,11 +11,12 @@ tags:
 - x264
 - Some Remote Tag
 - Sync to Radarr 1080p
+- 
 custom_formats:
 - id: 12
-  score: 1000
+  score: 200
 - id: 15
-  score: 150
+  score: 175
 - id: 6
   score: 100
 - id: 14
